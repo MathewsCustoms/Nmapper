@@ -52,14 +52,8 @@ Feel free to fork the repository and submit pull requests for improvements or ne
 
 Here are some screenshots of the application:
 
-### Layout
-
-(https://github.com/MathewsCustoms/Nmapper/Nmapper8888ping.png)
+![Layout](https://github.com/MathewsCustoms/Nmapper/blob/main/Nmapper8888ping.png)
 
 ### Settings
 
-(https://github.com/MathewsCustoms/Nmapper/scansettings.png)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Settings](https://github.com/MathewsCustoms/Nmapper/blob/main/scansetting.png)
