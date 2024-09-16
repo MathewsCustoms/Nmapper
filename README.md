@@ -52,7 +52,7 @@ Feel free to fork the repository and submit pull requests for improvements or ne
 
 Here are some screenshots of the application:
 
-![Layout](https://github.com/MathewsCustoms/Nmapper/blob/main/Nmapper8888ping.png)
+![Layout](https://github.com/MathewsCustoms/Nmapper/blob/main/NMapper8888ping.png)
 
 ### Settings
 
