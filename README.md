@@ -56,4 +56,4 @@ Here are some screenshots of the application:
 
 ### Settings
 
-![Settings](https://github.com/MathewsCustoms/Nmapper/blob/main/scansetting.png)
+![Settings](https://github.com/MathewsCustoms/Nmapper/blob/main/scansettings.png)
