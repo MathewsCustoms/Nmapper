@@ -54,11 +54,11 @@ Here are some screenshots of the application:
 
 ### Layout
 
-![Layout](https://github.com/yourusername/Nmap-Command-Sender/blob/main/path/to/layout.png)
+![Layout](https://github.com/MathewsCustoms/Nmapper/Nmapper8888ping.png)
 
 ### Settings
 
-![Settings](https://github.com/yourusername/Nmap-Command-Sender/blob/main/path/to/setting.png)
+![Settings](https://github.com/MathewsCustoms/Nmapper/scansettings.png)
 
 ## License
 
