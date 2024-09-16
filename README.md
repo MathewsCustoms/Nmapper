@@ -54,11 +54,11 @@ Here are some screenshots of the application:
 
 ### Layout
 
-![Layout](https://github.com/MathewsCustoms/Nmapper/Nmapper8888ping.png)
+(https://github.com/MathewsCustoms/Nmapper/Nmapper8888ping.png)
 
 ### Settings
 
-![Settings](https://github.com/MathewsCustoms/Nmapper/scansettings.png)
+(https://github.com/MathewsCustoms/Nmapper/scansettings.png)
 
 ## License
 
