@@ -56,4 +56,4 @@ Here are some screenshots of the application:
 
 ### Settings
 
-![Settings](https://github.com/MathewsCustoms/Nmapper/blob/main/NMapperMov.mp4)
+![Settings](https://github.com/MathewsCustoms/Nmapper/blob/main/settings.png)
